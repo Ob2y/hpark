@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Current Work
-* **Mechanical Engineering @ STAC:** Developing reinforcement learning control systems for autonomous lunar rovers for the **2026 University Rover Challenge**. 
+* **AI Rover Mechanical Engineering @ STAC:** Developing reinforcement learning control systems for autonomous lunar rovers for the **2026 University Rover Challenge**. 
 * **Superuser @ Physics Innovation Lab:** Managing precision optics, laser cutters, and 3D printing facilities at UC Berkeley. 
 
 ## 🔬 Research & Experience
